@@ -1,6 +1,3 @@
-# [2회차] Collection & Generic
-
-생성일: 2024년 2월 25일 오후 10:11
 
 # [2회차] Collection & Generic
 
